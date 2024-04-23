@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" """
+""" transform in new def task_wait_n and return list of delays """
 
 import asyncio
 import random
